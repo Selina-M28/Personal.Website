@@ -1,8 +1,11 @@
 import React from 'react'
+import Header from '../Components/Header'
 
 function About() {
   return (
-    <div><main className="main-content">
+    <div>
+      <Header/>
+      <main className="main-content">
     <h2>Welcome To My Personal Page!</h2>
     <p className="header-p">
       Some of my passions include fitness, cooking, and traveling
