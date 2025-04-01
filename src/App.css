@@ -59,10 +59,12 @@ main-content section hr {
 
 .main-content-2 {
   border: 1px solid ;
-  width: 75%;
+  color: rgb(68, 68, 68);
+  width: 70%;
   margin: 0 auto;
+  margin-top: 10px;
   background-color: rgb(252, 243, 234);
-  padding: 0 40px 30px 40px;
+  padding: 0 40px 5px 40px;
 }
 
 .main-content section {
@@ -76,6 +78,7 @@ main-content section hr {
 .main-content-2 section {
   border: 1px solid black;
   background-color: white;
+  align-items: center;
   min-height: 300px;
   margin-bottom: 70px;
   padding-top: 5px;

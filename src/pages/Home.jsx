@@ -14,8 +14,10 @@ function Home() {
           <div>
             <img src={imageSrc} alt ="Selina Mena" width="200"/>
             <p>
-            Software Engineer professional with expertise in front and back end web development. 8 years previous experience in Digital advertising. Strong attention to detail, experience working collaboratively with cross functional teams, and data driven decision making. Excited to combine marketing industry insights with my technical skills to address unique challenges in software development.
+            Software Engineer professional with expertise in front and back end web development. 8 years previous experience in Digital advertising. Strong attention to detail, experience working collaboratively with cross functional teams, and data driven decision making. I have a passion for learning and gaining new skills. I'm excited to combine marketing industry insights with my technical skills to address unique challenges in software development.
             </p>
+            <br/>
+            <p><b>Languages & Tools: </b> Javascript | HTML | CSS | PostgreSQL | Express | Node.js | React | Git | REST APIs |  Github | SQL</p>
           </div>
         </section>
       </main>
