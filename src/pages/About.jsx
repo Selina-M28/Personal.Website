@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../Components/Header'
+import Footer from '../Components/Footer';
 import imageSrcTravel from "../photos/Greece.jpg";
 import imageSrcFood from "../photos/Cooking.jpg";
 
@@ -85,7 +86,9 @@ function About() {
         </p>
       </div>
     </section>
-  </main></div>
+  </main>
+  {/* <Footer/> */}
+  </div>
   )
 }
 
