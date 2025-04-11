@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import About from "./pages/About";
+import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Home from "./pages/Home";
 
@@ -8,8 +8,8 @@ function App() {
     <>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/About" element={<About />} />
           <Route path="/Portfolio" element={<Portfolio />} />
+          <Route path="/Contact" element={<Contact />} />
         </Routes>
     </>
   );
