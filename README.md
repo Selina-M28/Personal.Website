@@ -17,10 +17,6 @@ This is the source code for my personal website, built to showcase my background
 - Clean, accessible layout  
 - Easy to update and extend
 
-## 🚀 Deployment
-
-Live at: [your-live-site-link.com](https://your-live-site-link.com)
-
 ## 🤝 Contact
 
 Feel free to get in touch via the site or connect on [LinkedIn](https://www.linkedin.com/in/selina-mena/).
