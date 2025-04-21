@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../Components/Header'
 import imageSrc from "../photos/personal photo.jpg"
+import Footer from '../Components/Footer'
 
 function Home() {
   return (
@@ -21,6 +22,7 @@ function Home() {
           </div>
         </section>
       </main>
+      <Footer/>
       </>
   )
 }

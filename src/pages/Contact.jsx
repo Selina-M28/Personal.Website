@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import Header from '../Components/Header';
+import Footer from '../Components/Footer';
 
 function Contact() {
     const [result, setResult] = useState("");
@@ -27,8 +28,9 @@ function Contact() {
       }
     };
   return (
-    <div>
+    <>
     <Header />
+    <div>
     <section className="form-container">
     <form onSubmit={onSubmit} className="contact-form">
         <div className="form-text-container">
@@ -55,7 +57,10 @@ function Contact() {
 
       {result && <div className="confirmation">{result}</div>}
     </section>
+    
   </div>
+    <Footer/>
+    </>
 )
 }
 
