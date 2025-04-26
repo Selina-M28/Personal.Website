@@ -33,7 +33,7 @@ function Home() {
                 to grasp new concepts, thrive in fast-paced environments, and
                 bring a positive, team-first mindset to everything I do. Most
                 importantly, I have a deep passion for building, learning, and
-                continuously growing in this field. Lets connect!
+                continuously growing in this field. Lets connect and collaborate!
               </p>
               <p>
                 <strong>Languages & Tools:</strong> JavaScript | HTML | CSS |
