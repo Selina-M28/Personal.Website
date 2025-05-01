@@ -1,6 +1,6 @@
 # 🌐 Personal Website – Selina Mena
 
-This is the source code for my personal website, built to showcase my background, technical skills, and recent projects as a full-stack software engineer. [Deployed Link](https://personal-website-7i5z.vercel.app/)
+This is the source code for my WIP personal website, built to showcase my background, technical skills, and recent projects as a full-stack software engineer. [Deployed Link](https://personal-website-7i5z.vercel.app/)
 
 ## 🛠 Tech Stack
 
