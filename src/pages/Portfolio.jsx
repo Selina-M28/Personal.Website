@@ -54,6 +54,12 @@ function Portfolio() {
                 UI
               </li>
             </ul>
+            <a
+              href="https://github.com/Selina-M28/WeddingWebsite"
+              className="link-button"
+            >
+              🔗 Github link to WIP project
+            </a>
           </div>
         </section>
         <section className="section-content">
