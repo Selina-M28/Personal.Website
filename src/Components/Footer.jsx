@@ -7,14 +7,11 @@ function Footer() {
     <div>
       <nav className="persistent-footer">
         <a href="https://www.linkedin.com/in/selina-mena/">
-        <img src={imgSrcLinkedin} alt ="Linkedin" width="50"/>
+        <img src={imgSrcLinkedin} alt ="Linkedin" width="30"/>
         </a>
         <a href="https://github.com/Selina-M28">
-        <div style={{ 
-          backgroundColor:'white',
-          border:'1px solid black',
-          borderRadius: '8px'}}>
-        <img src={imgSrcGithub} alt ="Github" width="50"/>
+        <div>
+        <img src={imgSrcGithub} alt ="Github" width="30"/>
         </div>
         </a>
       </nav>
