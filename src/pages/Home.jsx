@@ -8,33 +8,20 @@ function Home() {
     <>
       <Header />
       <main className="main-content-2">
-        <h2>Software Engineering Professional</h2>
+        <h2>Marketing & Technology Hybrid Professional</h2>
 
         <section className="section-content">
-          <h3>Passionate, Driven, Hardworking</h3>
+          <h3>Strategic, Creative, Tech-Savvy</h3>
           <hr />
           <div className="intro-container">
             <img src={imageSrc} alt="Selina Mena" className="intro-image" />
             <div className="intro-text">
               <p>
-                Software Engineer with expertise in front and back end web
-                development and 8 years of prior experience in digital
-                advertising. Skilled in collaborating with cross-functional
-                teams, data-driven decision-making, and adapting quickly to new
-                challenges. Passionate about learning and using marketing
-                insights to solve technical problems in innovative ways.
+              Marketing professional with 8 years of experience in digital advertising, campaign execution, and cross-platform strategy now equipped with modern technical skills in full-stack web development. I specialize in translating complex ideas into compelling narratives and building bridges between technical teams and business goals.
               </p>
               <p>
-                I'm actively seeking my first opportunity in software
-                engineering and am excited to bring my drive, curiosity, and
-                adaptability to a dynamic team. While I may not have years of
-                experience in tech, I’ve built a strong foundation through
-                hands-on projects during an immersive coding bootcamp. I’m quick
-                to grasp new concepts, thrive in fast-paced environments, and
-                bring a positive, team-first mindset to everything I do. Most
-                importantly, I have a deep passion for building, learning, and
-                continuously growing in this field. Lets connect and collaborate!
-              </p>
+              After completing an immersive software engineering bootcamp, I bring a unique blend of marketing intuition and technical fluency to roles at the intersection of product, marketing, and tech. Whether it's driving go-to-market strategies, optimizing digital operations, or supporting product adoption, I’m energized by solving problems creatively and collaboratively.
+              </p> I’m currently exploring opportunities in product marketing, digital marketing operations, or solutions engineering where I can use both my marketing background and technical skills to deliver value. Let’s connect and create something impactful!
               <p>
                 <strong>Languages & Tools:</strong> JavaScript | HTML | CSS |
                 PostgreSQL | Express | Node.js | React | Git | REST APIs |
