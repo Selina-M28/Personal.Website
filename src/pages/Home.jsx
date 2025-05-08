@@ -21,7 +21,8 @@ function Home() {
               </p>
               <p>
               After completing an immersive software engineering bootcamp, I bring a unique blend of marketing intuition and technical fluency to roles at the intersection of product, marketing, and tech. Whether it's driving go-to-market strategies, optimizing digital operations, or supporting product adoption, I’m energized by solving problems creatively and collaboratively.
-              </p> I’m currently exploring opportunities in product marketing, digital marketing operations, or solutions engineering where I can use both my marketing background and technical skills to deliver value. Let’s connect and create something impactful!
+              </p> 
+              <p>I’m currently exploring opportunities in product marketing, digital marketing operations, or solutions engineering where I can use both my marketing background and technical skills to deliver value. Let’s connect and create something impactful!</p>
               <p>
                 <strong>Languages & Tools:</strong> JavaScript | HTML | CSS |
                 PostgreSQL | Express | Node.js | React | Git | REST APIs |
